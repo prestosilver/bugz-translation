@@ -206,5 +206,5 @@ messages "en":
   done 36330, "s_runpause36330", r"Unpause"
   done 20623, "s_rslower20623", r"slower"
   done 79852, "s_rfaster79852", r"FASTER"
-  todo 20063, "s_rhideui20063", r"Hide UI"
-  todo 41083, "s_rcouldnot41083", r"Could not load leaderboard"
+  done 20063, "s_rhideui20063", r"Hide UI"
+  done 41083, "s_rcouldnot41083", r"Could not load leaderboard"
