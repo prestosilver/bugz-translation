@@ -34,7 +34,7 @@ messages "a":
   done 30451, "s_ronceyour30451",
        "AAAA AAAA AAAA AAAA A AAAAA, AAAA AAAA AAA\nAAAA AA AAAA AAAA AAAA!"
   done 67066, "s_rclickene67066", "AAAAA AAAAA AA AAAAA, AAA AAA AAAAAAAA AAAAAA AA AAA AAAAAAAAA.\nAAAAAA AAA AAAA AAAA A AAAAA AA AAA AAAA"
-  done 29360, "s_rchangelo29360", "AAAAAA AAA"
+  todo 29360, "s_rchangelo29360", "AAAAAA AAA"
   done 38541, "s_rthewitch38541", "AAA AAAAAA\'A AAAA"
   done 93982, "s_rthebowan93982", "AAA AAA AAAAA"
   done 94246, "s_rshootssr94246", "AAAAAA AAAAAA, AAAAAAAA, AAAAAAA."
@@ -228,3 +228,5 @@ messages "a":
   todo 41325, "s_rx15magne41325", r"x1.5 Magnet power"
   todo 18310, "s_r1speed18310", r"+1 Speed"
   todo 30265, "s_rdarkmode30265", r"Dark mode has been unlocked for levels 26+."
+  todo 20063, "s_rhideui20063", r"Hide UI"
+  todo 41083, "s_rcouldnot41083", r"Could not load leaderboard"
