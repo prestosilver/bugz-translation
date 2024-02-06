@@ -206,3 +206,5 @@ messages "es":
   todo 36330, "s_runpause36330", r"Unpause"
   todo 20623, "s_rslower20623", r"slower"
   todo 79852, "s_rfaster79852", r"FASTER"
+  todo 41083, "s_rcouldnot41083", r"Could not load leaderboard"
+  todo 20063, "s_rhideui20063", r"Hide UI"

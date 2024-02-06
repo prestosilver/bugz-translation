@@ -153,7 +153,7 @@ messages "en":
   done 10154, "s_rhigh10154", r"High"
   done 28828, "s_rtime28828", r"Time"
   done 92928, "s_rruns92928", r"Runs"
-  todo 41690, "s_renteryou41690", r"Enter your name"
+  done 41690, "s_renteryou41690", r"Enter your name"
   done 12100, "s_rcurses12100", r"Curses"
   done 27270, "s_rspecial27270", r"Special"
   done 40305, "s_runequip40305", r"Unequip"
