@@ -251,6 +251,5 @@ messages "a":
   done 27182, "s_rthesflys27182", r"AAA %s AAAA AAAA AA AAAA AAAAAA."
   done 21009, "s_rpoisonis21009", r"AAAAAA AA AAAAAAAAA."
   done 20525, "s_rsoclose20525", r"AA AAAAA."
-  todo 41690, "s_renteryou41690", r"Enter your name"
   todo 19723, "s_ryouwerew19723", r"You were winning, But..."
   todo 11079, "s_rohthebos11079", r"Oh, the boss can shoot arrows."

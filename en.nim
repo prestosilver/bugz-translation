@@ -250,6 +250,5 @@ messages "en":
   done 27182, "s_rthesflys27182", "The %s flys when it gets scared."
   done 21009, "s_rpoisonis21009", "Poison is dangerous."
   done 20525, "s_rsoclose20525", "So close."
-  done 41690, "s_renteryou41690", "Enter your name"
   done 19723, "s_ryouwerew19723", "You were winning, But..."
   done 11079, "s_rohthebos11079", r"Oh, the boss can shoot arrows."

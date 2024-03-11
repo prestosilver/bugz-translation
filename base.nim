@@ -172,7 +172,6 @@ baseMessages:
   msg "s_rhigh10154", r"High"
   msg "s_rtime28828", r"Time"
   msg "s_rruns92928", r"Runs"
-  msg "s_renteryou41690", r"Enter your name"
   msg "s_rcurses12100", r"Curses"
   msg "s_rspecial27270", r"Special"
   msg "s_runequip40305", r"Unequip"

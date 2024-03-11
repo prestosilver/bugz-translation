@@ -126,7 +126,6 @@ messages "es":
   todo 10154, "s_rhigh10154", "High"
   todo 28828, "s_rtime28828", "Time"
   todo 92928, "s_rruns92928", "Runs"
-  todo 41690, "s_renteryou41690", "Enter your name"
   todo 12100, "s_rcurses12100", "Curses"
   todo 27270, "s_rspecial27270", "Special"
   todo 40305, "s_runequip40305", "Unequip"
